@@ -68,9 +68,9 @@ links:
 
       # CUSTOM LINK
   - Name: Nostr
-    URL: https://bitcoinbeer.events
+    URL: https://l10n-main.snort-social.pages.dev/p/npub1rf8vy7m488zdmmevgkh74ene4aky9387nvaq6zx3gfkhyjgwnueqn4x24j
     Icon-Class: fas fa-link
-    Color: '#ffb142'
+    Color: '#6e5494'
     Text_Color: '#ffffff'
 
 
